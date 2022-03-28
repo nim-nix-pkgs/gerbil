@@ -11,7 +11,6 @@
   inputs.src-gerbil-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-gerbil-v0_1_0.owner = "jasonprogrammer";
   inputs.src-gerbil-v0_1_0.repo  = "gerbil";
-  inputs.src-gerbil-v0_1_0.dir   = "";
   inputs.src-gerbil-v0_1_0.type  = "github";
   
   inputs."argparse".owner = "nim-nix-pkgs";
