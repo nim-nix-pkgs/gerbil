@@ -11,6 +11,7 @@
   inputs.src-gerbil-master.ref   = "refs/heads/master";
   inputs.src-gerbil-master.owner = "jasonprogrammer";
   inputs.src-gerbil-master.repo  = "gerbil";
+  inputs.src-gerbil-master.dir   = "";
   inputs.src-gerbil-master.type  = "github";
   
   inputs."argparse".owner = "nim-nix-pkgs";
